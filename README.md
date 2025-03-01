@@ -4,31 +4,31 @@ Introduction
 
 Welcome to My First Website! 🎉 This is a simple HTML & CSS project designed to help beginners understand the fundamentals of web development.
 
-Features
+#Features
 
-✅ Basic HTML structure
-✅ Headings, paragraphs, links, and images
-✅ A styled button
-✅ A simple form
-✅ External CSS for styling
-✅ Centered content using CSS Flexbox
+✅ Basic HTML structure.
+✅ Headings, paragraphs, links, and images.
+✅ A styled button.
+✅ A simple form.
+✅ External CSS for styling.
+✅ Centered content using CSS Flexbox.
 
 
-File Structure
+#File Structure
 
 / my-first-website
 ├── index.html  # Main webpage file
 ├── styles.css  # External stylesheet for styling
 └── images/     # Folder for storing images (if needed)
 
-How to Run the Website:
+#How to Run the Website:
 
-Download or Clone this project.
-Open index.html in a web browser (Chrome, Firefox, Edge, etc.).
-Edit the files using a text editor (VS Code, Notepad++, etc.).
-Save your changes and refresh the browser to see updates.
+- Download or Clone this project.
+- Open index.html in a web browser (Chrome, Firefox, Edge, etc.).
+- Edit the files using a text editor (VS Code, Notepad++, etc.).
+- Save your changes and refresh the browser to see updates.
 
-Technologies Used:
+#Technologies Used:
 
 HTML 🏗️ - To structure the content
 CSS 🎨 - To style and design the webpage
